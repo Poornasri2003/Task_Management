@@ -30,6 +30,6 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 * **Local Storage:**  Tasks are stored locally, ensuring data persistence even when the page is refreshed.
 * **Filtering:**  Implemented functionality to filter tasks based on their completion status.
   ## Contact
-  ## Contact
+
 For any inquiries or assistance,  contact -Poornasri
->Email: poornaperiyasamy@gmail.com
+>Email: poornasrip2003@gmail.com
