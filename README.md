@@ -1,35 +1,70 @@
-# Task_Management
- React task tracker app enabling users to add, delete, and mark tasks as completed. Features include responsive design, local storage for data persistence, and task filtering based on completion status. Enhance user experience with visually distinct styling for completed tasks.
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## How to Run Locally
+## Available Scripts
 
-### Prerequisites
+In the project directory, you can run:
 
-Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+### `npm start`
 
-### Clone the Repository
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-> git clone https://github.com/Poornasri2003/Task_Management.git
+### `npm test`
 
-### Navigate to the Project Directory
-> cd task-tracker-app
-### Install Dependencies
->npm install
->npm install react-datepicker
-### Run the Application
->npm start
-## Features
-* **Task List:** Display a list of tasks with details such as task name, date added, and completion status.
-* **Add Task:** Use the provided form to add new tasks, including a task name and date added.
-* **Delete Task:**  Each task in the list has a delete option to remove it.
-* **Mark as Completed:**  Tasks can be marked as completed, visually distinguishing them from incomplete ones.
-* **Styling:**  Basic styling is applied for a user-friendly interface.
-* **Responsiveness:**  The application is designed to work well on both desktop and mobile devices.
-* **Local Storage:**  Tasks are stored locally, ensuring data persistence even when the page is refreshed.
-* **Filtering:**  Implemented functionality to filter tasks based on their completion status.
-  ## Contact
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-For any inquiries or assistance,  contact -Poornasri
->Email: poornasrip2003@gmail.com
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
